@@ -1,2 +1,0 @@
-let API_key="d7ed544cb380e99eec9211c10aea6efc"
-http://api.openweathermap.org/geo/1.0/direct?q={city name},{state code},{country code}&limit={limit}&appid={API key}
